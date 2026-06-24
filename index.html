@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>You, me + Indonesia?</title>
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <style>
+    :root {
+      --coral: #ff6b6b;
+      --teal: #1fb5a3;
+      --sunny: #ffcb47;
+      --ink: #2b2d42;
+      --cream: #fff8f0;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: "Quicksand", system-ui, sans-serif;
+      color: var(--ink);
+      background: var(--cream);
+    }
+
+    header {
+      text-align: center;
+      padding: 22px 16px 14px;
+      background: linear-gradient(120deg, var(--coral), var(--sunny));
+      color: #fff;
+      box-shadow: 0 4px 18px rgba(0, 0, 0, 0.15);
+      position: relative;
+      z-index: 500;
+    }
+
+    header h1 {
+      font-family: "Pacifico", cursive;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      margin: 0;
+      text-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    }
+
+    header p {
+      margin: 6px 0 0;
+      font-weight: 600;
+      font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+      opacity: 0.95;
+    }
+
+    .layout {
+      display: flex;
+      height: calc(100vh - 96px);
+      min-height: 420px;
+    }
+
+    #map {
+      flex: 1 1 auto;
+      height: 100%;
+    }
+
+    aside {
+      flex: 0 0 320px;
+      max-width: 60%;
+      overflow-y: auto;
+      padding: 18px 18px 40px;
+      background: var(--cream);
+      border-left: 4px solid var(--sunny);
+    }
+
+    aside h2 {
+      font-family: "Pacifico", cursive;
+      color: var(--coral);
+      font-size: 1.4rem;
+      margin: 4px 0 14px;
+    }
+
+    .stop-card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 14px 16px;
+      margin-bottom: 14px;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+      border-left: 6px solid var(--teal);
+      cursor: pointer;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .stop-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.14);
+    }
+
+    .stop-card h3 {
+      margin: 0 0 4px;
+      font-size: 1.1rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .badge {
+      background: var(--coral);
+      color: #fff;
+      border-radius: 999px;
+      width: 26px;
+      height: 26px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.9rem;
+      flex: 0 0 auto;
+    }
+
+    .nights {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--teal);
+      margin-left: auto;
+    }
+
+    .stop-card ul {
+      margin: 8px 0 0;
+      padding-left: 18px;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+
+    .marker-pin {
+      background: var(--coral);
+      color: #fff;
+      width: 34px;
+      height: 34px;
+      border-radius: 50% 50% 50% 0;
+      transform: rotate(-45deg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+      border: 3px solid #fff;
+    }
+
+    .marker-pin span {
+      transform: rotate(45deg);
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 14px;
+    }
+
+    .leaflet-popup-content {
+      font-family: "Quicksand", sans-serif;
+      margin: 12px 16px;
+    }
+
+    .popup-title {
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: var(--coral);
+      margin-bottom: 4px;
+    }
+
+    .popup-content ul {
+      margin: 6px 0 0;
+      padding-left: 18px;
+      line-height: 1.45;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.85rem;
+      padding: 10px;
+      color: #888;
+    }
+
+    @media (max-width: 760px) {
+      .layout { flex-direction: column; height: auto; }
+      #map { height: 55vh; }
+      aside { flex: none; max-width: 100%; border-left: none; border-top: 4px solid var(--sunny); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>You, me + Indonesia?</h1>
+    <p>🌴 4 stops · 14 nights · zero chill (in the best way) · let's gooo girls ✨</p>
+  </header>
+
+  <div class="layout">
+    <div id="map"></div>
+    <aside>
+      <h2>The Itinerary 🗺️</h2>
+      <div id="cards"></div>
+    </aside>
+  </div>
+
+  <footer>Made with 💛 + Leaflet & OpenStreetMap · Bali → Flores → Jogja → Jakarta</footer>
+
+  <!-- Leaflet JS -->
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+
+  <script>
+    const stops = [
+      {
+        n: 1,
+        name: "Bali",
+        emoji: "🌺",
+        nights: 4,
+        coords: [-8.4095, 115.1889],
+        blurb: "Where the trip kicks off in full island-goddess mode.",
+        items: [
+          "Ubud: temples, rice terraces & traditional dance performances",
+          "Kintamani: Mount Batur + dreamy highlands",
+          "Sanur: beach vibes, maxin' relaxin' & seafood feasts"
+        ]
+      },
+      {
+        n: 2,
+        name: "Flores (Labuan Bajo)",
+        emoji: "🐉",
+        nights: 4,
+        coords: [-8.4960, 119.8877],
+        blurb: "Base in Labuan Bajo for the wildest adventure leg.",
+        items: [
+          "1-night liveaboard 🛥️",
+          "Komodo Island, Pink Beach & island hopping",
+          "Padar Island sunrise/sunset 🌅",
+          "Snorkeling with manta rays 🐠"
+        ]
+      },
+      {
+        n: 3,
+        name: "Jogjakarta",
+        emoji: "🛕",
+        nights: 3,
+        coords: [-7.7956, 110.3695],
+        blurb: "Culture, temples & treasure-hunting central.",
+        items: [
+          "Borobudur & Prambanan Temples",
+          "Museum hopping",
+          "Batik workshop 🎨",
+          "Shopping in Malioboro 🛍️"
+        ]
+      },
+      {
+        n: 4,
+        name: "Jakarta",
+        emoji: "🏙️",
+        nights: 3,
+        coords: [-6.2088, 106.8456],
+        blurb: "The big-city grand finale.",
+        items: [
+          "Chaotic city-life vibes",
+          "Old Town & Glodok Chinatown",
+          "Food, food, food 🍜",
+          "Shopping & café hopping ☕"
+        ]
+      }
+    ];
+
+    const map = L.map("map", { scrollWheelZoom: true });
+
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    const markers = [];
+
+    function popupHtml(s) {
+      return (
+        '<div class="popup-title">' + s.emoji + " " + s.n + ". " + s.name +
+        ' <span style="color:#1fb5a3">(' + s.nights + " nights)</span></div>" +
+        '<div class="popup-content"><em>' + s.blurb + "</em><ul>" +
+        s.items.map(function (i) { return "<li>" + i + "</li>"; }).join("") +
+        "</ul></div>"
+      );
+    }
+
+    stops.forEach(function (s) {
+      const icon = L.divIcon({
+        className: "",
+        html: '<div class="marker-pin"><span>' + s.n + "</span></div>",
+        iconSize: [34, 34],
+        iconAnchor: [17, 34],
+        popupAnchor: [0, -32]
+      });
+
+      const m = L.marker(s.coords, { icon: icon })
+        .addTo(map)
+        .bindPopup(popupHtml(s), { maxWidth: 280 });
+      markers.push(m);
+    });
+
+    // Route line connecting the stops in order
+    L.polyline(stops.map(function (s) { return s.coords; }), {
+      color: "#ff6b6b",
+      weight: 4,
+      opacity: 0.8,
+      dashArray: "8, 10",
+      lineJoin: "round"
+    }).addTo(map);
+
+    map.fitBounds(L.latLngBounds(stops.map(function (s) { return s.coords; })).pad(0.25));
+
+    // Sidebar cards
+    const cards = document.getElementById("cards");
+    stops.forEach(function (s, idx) {
+      const card = document.createElement("div");
+      card.className = "stop-card";
+      card.innerHTML =
+        '<h3><span class="badge">' + s.n + "</span>" + s.emoji + " " + s.name +
+        '<span class="nights">' + s.nights + " nights</span></h3>" +
+        "<ul>" + s.items.map(function (i) { return "<li>" + i + "</li>"; }).join("") + "</ul>";
+      card.addEventListener("click", function () {
+        map.flyTo(s.coords, 9, { duration: 0.8 });
+        markers[idx].openPopup();
+      });
+      cards.appendChild(card);
+    });
+  </script>
+</body>
+</html>
