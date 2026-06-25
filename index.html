@@ -85,21 +85,6 @@
       line-height: 1.75;
     }
 
-    .title-row {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: center;
-      gap: 14px;
-    }
-
-    .title-emoji {
-      font-size: clamp(1.9rem, 4.8vw, 2.9rem);
-      line-height: 1;
-      white-space: nowrap;
-      margin-bottom: 9px;
-    }
-
     .note {
       font-family: "Poppins", system-ui, sans-serif;
       font-size: 0.82rem;
@@ -123,12 +108,7 @@
     #map {
       flex: 1 1 auto;
       height: 100%;
-      background: #efe9cf;
-    }
-
-    /* Warm cream/coral tint over the basemap to match the theme */
-    .leaflet-tile-pane {
-      filter: sepia(0.42) saturate(0.8) hue-rotate(-12deg) brightness(1.04) contrast(0.92);
+      background: #a7c0bd; /* teal ocean */
     }
 
     aside {
@@ -215,7 +195,7 @@
     .stop-card li { margin-bottom: 3px; }
 
     .marker-pin {
-      background: var(--accent);
+      background: #5a2d24;
       color: #fff;
       width: 30px;
       height: 30px;
@@ -224,8 +204,8 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      box-shadow: 0 4px 12px rgba(70, 58, 52, 0.3);
-      border: 2.5px solid #fffdf0;
+      box-shadow: 0 4px 12px rgba(40, 22, 16, 0.4);
+      border: 2.5px solid #f9f4c8;
     }
 
     .marker-pin span {
@@ -293,10 +273,7 @@
 <body>
   <header>
     <p class="eyebrow">Bali · Java · Flores</p>
-    <div class="title-row">
-      <h1>You, me + Indonesia?</h1>
-      <span class="title-emoji">👉🏼👈🏼</span>
-    </div>
+    <h1>You, me + Indonesia?</h1>
     <p>Proposed dates: October 18 - November 1, 2026 (15D/14N). More details and estimated costs coming soon!</p>
   </header>
 
@@ -377,12 +354,26 @@
       }
     ];
 
-    const map = L.map("map", { scrollWheelZoom: true });
+    const map = L.map("map", { scrollWheelZoom: true, attributionControl: true });
 
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-      maxZoom: 19,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    }).addTo(map);
+    // Stylized vector basemap: terracotta land on a teal ocean (echoes the illustrated map)
+    fetch("https://cdn.jsdelivr.net/gh/johan/world.geo.json@master/countries.geo.json")
+      .then(function (r) { return r.json(); })
+      .then(function (geo) {
+        L.geoJSON(geo, {
+          style: {
+            fillColor: "#cb7e52",
+            fillOpacity: 1,
+            color: "#b86b41",
+            weight: 1,
+            lineJoin: "round"
+          },
+          interactive: false
+        }).addTo(map).bringToBack();
+      })
+      .catch(function () {});
+
+    map.attributionControl.addAttribution('Boundaries &copy; <a href="https://github.com/johan/world.geo.json">world.geo.json</a>');
 
     const markers = [];
 
@@ -413,7 +404,7 @@
 
     // Route line connecting the stops in order
     L.polyline(stops.map(function (s) { return s.coords; }), {
-      color: "#d2604e",
+      color: "#5a2d24",
       weight: 3,
       opacity: 0.9,
       dashArray: "6, 9",
