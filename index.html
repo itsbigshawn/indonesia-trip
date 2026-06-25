@@ -85,6 +85,27 @@
       line-height: 1.75;
     }
 
+    .title-emoji {
+      font-size: clamp(1.4rem, 3.5vw, 2rem);
+      vertical-align: middle;
+      margin-left: 6px;
+      white-space: nowrap;
+    }
+
+    .note {
+      font-family: "Poppins", system-ui, sans-serif;
+      font-size: 0.82rem;
+      font-weight: 500;
+      color: var(--accent-dark);
+      background: var(--surface);
+      border: 1px dashed var(--accent);
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin: 22px 0 0;
+      text-align: center;
+      line-height: 1.5;
+    }
+
     .layout {
       display: flex;
       height: calc(100vh - 168px);
@@ -264,8 +285,8 @@
 <body>
   <header>
     <p class="eyebrow">Bali · Java · Flores</p>
-    <h1>You, me + Indonesia?</h1>
-    <p>A 14-night girls' trip across four unforgettable stops — temples and rice terraces, dragons and manta rays, batik and big-city eats. Tap a marker to start dreaming.</p>
+    <h1>You, me + Indonesia?</h1> <span class="title-emoji">👉🏼👈🏼</span>
+    <p>14 nights across four unforgettable stops — proposed dates <strong>October 18 – November 1, 2026</strong>. The trip length is totally flexible and adjustable, so we can shape it together. Tap a marker to start dreaming.</p>
   </header>
 
   <div class="layout">
@@ -273,6 +294,7 @@
     <aside>
       <h2>The itinerary</h2>
       <div id="cards"></div>
+      <p class="note">💸 Estimated cost and more details coming later!</p>
     </aside>
   </div>
 
