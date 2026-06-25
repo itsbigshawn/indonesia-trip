@@ -85,11 +85,19 @@
       line-height: 1.75;
     }
 
+    .title-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+    }
+
     .title-emoji {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      vertical-align: middle;
-      margin-left: 6px;
+      font-size: clamp(1.9rem, 4.8vw, 2.9rem);
+      line-height: 1;
       white-space: nowrap;
+      margin-bottom: 9px;
     }
 
     .note {
@@ -285,8 +293,11 @@
 <body>
   <header>
     <p class="eyebrow">Bali · Java · Flores</p>
-    <h1>You, me + Indonesia?</h1> <span class="title-emoji">👉🏼👈🏼</span>
-    <p>14 nights across four unforgettable stops — proposed dates <strong>October 18 – November 1, 2026</strong>. The trip length is totally flexible and adjustable, so we can shape it together. Tap a marker to start dreaming.</p>
+    <div class="title-row">
+      <h1>You, me + Indonesia?</h1>
+      <span class="title-emoji">👉🏼👈🏼</span>
+    </div>
+    <p>Proposed dates: October 18 - November 1, 2026 (15D/14N). More details and estimated costs coming soon!</p>
   </header>
 
   <div class="layout">
@@ -315,7 +326,7 @@
         emoji: "🌺",
         nights: 4,
         coords: [-8.4095, 115.1889],
-        blurb: "Where the trip kicks off in full island-goddess mode.",
+        blurb: "Ease into island mode to kick off the trip",
         items: [
           "Ubud: temples, rice terraces & traditional dance performances",
           "Kintamani: Mount Batur + dreamy highlands",
@@ -328,7 +339,7 @@
         emoji: "🐉",
         nights: 4,
         coords: [-8.4960, 119.8877],
-        blurb: "Base in Labuan Bajo for the wildest adventure leg.",
+        blurb: "Outdoor adventures!",
         items: [
           "1-night liveaboard 🛥️",
           "Komodo Island, Pink Beach & island hopping",
@@ -342,7 +353,7 @@
         emoji: "🛕",
         nights: 3,
         coords: [-7.7956, 110.3695],
-        blurb: "Culture, temples & treasure-hunting central.",
+        blurb: "Cultural heart of Java",
         items: [
           "Borobudur & Prambanan Temples",
           "Museum hopping",
