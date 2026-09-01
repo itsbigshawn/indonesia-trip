@@ -2,64 +2,45 @@
 
 ## Overview
 
-**4 nights in Bali:** Ubud (2 nights) → Kintamani (1 night) → Sanur (1 night)
+**4 nights in Bali:** Sanur (1 night) → Kintamani (1 night) → Ubud (2 nights)
 
 | Day | Base | Area | Main Experiences |
 |---|---|---|---|
-| 1 | Ubud | Central Ubud | Monkey Forest, Saraswati Temple, ARMA + dance |
-| 2 | Ubud | Northern Ubud | Tegallalang, Gunung Kawi |
-| 3 | Kintamani | Batur Caldera | Mount Batur/Lake Batur, easy walk, hot springs |
-| 4 | Sanur | Sanur | Beach, promenade, relaxation |
-| 5 | — | Sanur → Labuan Bajo | Sunrise → flight |
-
-### Alternative Itinerary
-Sanur --> Kintamani --> Ubud for a slower arrival to settle in and beat the jet lag.
+| 1 | Sanur | Sanur | Arrival, beach, promenade, relaxation |
+| 2 | Kintamani | Batur Caldera | Mount Batur/Lake Batur, easy walk, hot springs |
+| 3 | Ubud | Northern Ubud | Tegallalang, Gunung Kawi |
+| 4 | Ubud | Central Ubud | Monkey Forest, Saraswati Temple, ARMA + dance |
+| 5 | — | Ubud → Labuan Bajo | Breakfast → flight |
 
 ---
 
-## Day 1 — Central Ubud
+## Day 1 — Arrival in Sanur
 
-**Focus:** Culture, art & central Ubud
+**Focus:** Easy arrival & jet lag recovery
+
+With flights from Toronto typically arriving in the afternoon, keep the first day intentionally light.
 
 ### Must-do
-- 🐒 Sacred Monkey Forest
-- 🌺 Saraswati Temple
-- 🎨 Agung Rai Museum of Art (ARMA)
-- 💃 Traditional Balinese dance performance at ARMA
+- Check into hotel
+- 🏖️ Sanur Beach
+- 🚶 Easy beachfront promenade walk
+- 🍽️ Relaxed dinner
 
 ### Optional
-- 🛍️ Ubud Market / shopping
-- 🧑‍🎨 Cultural workshop at/through ARMA
-- 🌿 Campuhan Ridge Walk
+- 🌅 Sunset / relaxed evening
+- 🛍️ Sindhu Market
+- 💆 Massage
 
 ### Hotel Options
-- ARMA Museum and Resort
-- Jiwa's House
-- Purana Suite
-- The Lokha
+- Tandjung Sari Hotel
+- Sudamala Resort
+- Bumas Hotel
 
-**Overnight:** Ubud
-
----
-
-## Day 2 — Northern Ubud
-
-**Focus:** Rice terraces & archaeology
-
-### Must-do
-- 🌾 Tegallalang Rice Terraces
-- 🛕 Gunung Kawi
-
-### Optional
-- 💦 One waterfall — e.g. Kanto Lampo or Tegenungan
-- 🛕 Goa Gajah *(routing-dependent)*
-- 🧑‍🎨 Cultural workshop if it did not work on Day 1
-
-**Overnight:** Ubud
+**Overnight:** Sanur
 
 ---
 
-## Day 3 — Ubud → Kintamani
+## Day 2 — Sanur → Kintamani
 
 **Focus:** Volcano, lake & hot springs
 
@@ -72,7 +53,6 @@ Sanur --> Kintamani --> Ubud for a slower arrival to settle in and beat the jet 
 
 ### Optional
 - ☕ **Belantih Coffee Farm** — small working coffee farm + tasting
-- 🌄 **Caldera Sunrise Trekking tour**
 - 🏘️ Local village/cultural experience
 - 🚲 Cycling
 - 🥾 Short caldera walks
@@ -87,37 +67,51 @@ Sanur --> Kintamani --> Ubud for a slower arrival to settle in and beat the jet 
 
 ---
 
-## Day 4 — Kintamani → Sanur
+## Day 3 — Kintamani → Northern Ubud
 
-**Focus:** Relaxation
+**Focus:** Rice terraces & archaeology
 
 ### Must-do
-- 🏖️ Sanur Beach
-- 🚶 Beachfront promenade
-- 🌅 Sunset / relaxed evening
-- 🍽️ Nice dinner / beach club
+- 🌾 Tegallalang Rice Terraces
+- 🛕 Gunung Kawi
+- Check into Ubud hotel
 
 ### Optional
-- 🎨 Museum Le Mayeur
-- 🛍️ Sindhu Market
-- 🏄 Paddleboarding / kayaking
-- 🤿 Snorkeling
-- 💆 Massage
-
+- 🌄 Caldera sunrise trekking tour before leaving Kintamani
+- 💦 One waterfall — e.g. Kanto Lampo or Tegenungan
+- 🛕 Goa Gajah *(routing-dependent)*
 
 ### Hotel Options
-- Tandjung Sari Hotel
-- Sudamala Resort
-- Bumas Hotel
+- ARMA Museum and Resort
+- Jiwa's House
+- Purana Suite
+- The Lokha
 
-**Overnight:** Sanur
+**Overnight:** Ubud
 
 ---
 
-## Day 5 — Sanur → Labuan Bajo
+## Day 4 — Central Ubud
 
-- 🌅 Sanur sunrise
-- 🚶 Beachfront walk
+**Focus:** Culture, art & central Ubud
+
+### Must-do
+- 🐒 Sacred Monkey Forest
+- 🌺 Saraswati Temple
+- 🎨 Agung Rai Museum of Art (ARMA)
+- 💃 Traditional Balinese dance performance at ARMA
+
+### Optional
+- 🛍️ Ubud Market / shopping
+- 🧑‍🎨 Cultural workshop at/through ARMA
+- 🌿 Campuhan Ridge Walk
+
+**Overnight:** Ubud
+
+---
+
+## Day 5 — Ubud → Labuan Bajo
+
 - 🍳 Breakfast
 - Check out
 - Airport transfer
