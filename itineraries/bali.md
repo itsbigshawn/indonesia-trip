@@ -20,7 +20,7 @@
 
 With flights from Toronto typically arriving in the afternoon, keep the first day intentionally light.
 
-### Must-do
+### Main activities
 - Check into hotel
 - 🏖️ Sanur Beach
 - 🚶 Easy beachfront promenade walk
@@ -44,7 +44,7 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 
 **Focus:** Volcano, lake & hot springs
 
-### Must-do
+### Main activities
 - 🌋 Mount Batur & Lake Batur scenery
 - 🚶 Easy walk around Lake Batur / caldera
 - 🍽️ Meal with a caldera view
@@ -71,7 +71,7 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 
 **Focus:** Rice terraces & archaeology
 
-### Must-do
+### Main activities
 - 🌾 Tegallalang Rice Terraces
 - 🛕 Gunung Kawi
 - Check into Ubud hotel
@@ -95,7 +95,7 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 
 **Focus:** Culture, art & central Ubud
 
-### Must-do
+### Main activities
 - 🐒 Sacred Monkey Forest
 - 🌺 Saraswati Temple
 - 🎨 Agung Rai Museum of Art (ARMA)

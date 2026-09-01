@@ -71,7 +71,7 @@ The Yogyakarta portion focuses on Javanese history, iconic temples, local cultur
 
 **Focus:** Local culture, history & food
 
-### Must-do
+### Main activities
 - 🏯 **Kraton / Yogyakarta Palace**
 - 💧 **Taman Sari**
 - 🛍️ **Malioboro**

@@ -76,7 +76,7 @@ Advertised itinerary includes:
 
 **Focus:** Iconic Komodo experiences + return to Labuan Bajo
 
-### Must-do
+### Main activities
 - 🌅 Padar Island sunrise
 - 🏖️ Pink Beach
 - 🦎 Komodo Island or Rinca Island — ranger-guided dragon trek

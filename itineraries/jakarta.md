@@ -34,7 +34,7 @@ Jakarta will be a lighter, more flexible portion of the trip, focused on histori
 
 **Focus:** Historic Jakarta & Chinese-Indonesian culture
 
-### Must-do
+### Main activities
 - 🏛️ **Jakarta Old Town / Kota Tua**
 - **Fatahillah Square**
 - Explore the surrounding historic streets and buildings
@@ -53,7 +53,7 @@ Jakarta will be a lighter, more flexible portion of the trip, focused on histori
 
 **Focus:** Contemporary Jakarta, neighborhoods & green space
 
-### Must-do
+### Main activities
 - 🏙️ **Blok M**
 - Explore the neighborhood, shops, streets, and surrounding areas
 - 🏟️ **Gelora Bung Karno (GBK)**
