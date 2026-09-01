@@ -1,10 +1,17 @@
 # Indonesia Trip — Yogyakarta Itinerary
 
-## Overview
+## Yogyakarta at a Glance
 
 **3 nights in Yogyakarta**
 
 The Yogyakarta portion focuses on Javanese history, iconic temples, local culture, food, and city life.
+
+| Day | Base | Main Experiences |
+|---|---|---|
+| 8 | Yogyakarta | Arrival + relaxed city evening |
+| 9 | Yogyakarta | 🛕 **Borobudur + Prambanan** |
+| 10 | Yogyakarta | 🏯 Kraton + 💧 Taman Sari + 🛍️ Malioboro + local culture |
+| 11 | — | Yogyakarta → Jakarta |
 
 ---
 
@@ -90,14 +97,3 @@ The Yogyakarta portion focuses on Javanese history, iconic temples, local cultur
 - ✈️ / 🚆 Travel to Jakarta
 - Check into Jakarta accommodation
 - Begin the Jakarta portion
-
----
-
-## Yogyakarta at a Glance
-
-| Day | Base | Main Experiences |
-|---|---|---|
-| 8 | Yogyakarta | Arrival + relaxed city evening |
-| 9 | Yogyakarta | 🛕 **Borobudur + Prambanan** |
-| 10 | Yogyakarta | 🏯 Kraton + 💧 Taman Sari + 🛍️ Malioboro + local culture |
-| 11 | — | Yogyakarta → Jakarta |

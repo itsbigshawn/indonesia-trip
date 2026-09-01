@@ -1,12 +1,19 @@
 # Indonesia Trip — Jakarta Itinerary
 
-## Overview
+## Jakarta at a Glance
 
 **3 nights in Jakarta**
 
 Jakarta will be a lighter, more flexible portion of the trip, focused on historic neighborhoods, contemporary city life, and exploring different parts of the city.
 
 **Accommodation:** Family home
+
+| Day | Area | Main Experiences |
+|---|---|---|
+| 11 | Jakarta | Yogyakarta → Jakarta → settle in |
+| 12 | **Kota Tua + Glodok** | Old Town + Chinatown |
+| 13 | **Blok M + Senayan** | Blok M + GBK + Hutan Kota |
+| 14 | Jakarta | Flexible morning → departure |
 
 ---
 
@@ -71,17 +78,6 @@ Jakarta will be a lighter, more flexible portion of the trip, focused on histori
 - Optional final neighborhood outing
 - Optional shopping / mall visit if not already done
 - ✈️ Head to the airport
-
----
-
-## Jakarta at a Glance
-
-| Day | Area | Main Experiences |
-|---|---|---|
-| 11 | Jakarta | Yogyakarta → Jakarta → settle in |
-| 12 | **Kota Tua + Glodok** | Old Town + Chinatown |
-| 13 | **Blok M + Senayan** | Blok M + GBK + Hutan Kota |
-| 14 | Jakarta | Flexible morning → departure |
 
 ---
 

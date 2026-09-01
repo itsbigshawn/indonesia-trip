@@ -1,6 +1,6 @@
 # Indonesia Trip — Bali Itinerary
 
-## Overview
+## Bali at a Glance
 
 **4 nights in Bali:** Sanur (1 night) → Kintamani (1 night) → Ubud (2 nights)
 

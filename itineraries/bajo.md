@@ -1,10 +1,17 @@
 # Indonesia Trip — Labuan Bajo / Komodo Itinerary
 
-## Overview
+## Labuan Bajo at a Glance
 
 **3 nights in Labuan Bajo:** Labuan Bajo (1 night) → 2D/1N liveaboard (1 night) → Labuan Bajo (1 night)
 
 The Labuan Bajo portion focuses on experiencing Komodo National Park through a short overnight sailing trip, while limiting time on the boat to one night given seasickness concerns.
+
+| Day | Base | Main Experiences |
+|---|---|---|
+| 5 | Labuan Bajo | Arrival, waterfront, sunset |
+| 6 | Boat | Kelor Island, snorkeling, Kalong sunset |
+| 7 | Labuan Bajo | Padar sunrise, Pink Beach, Komodo dragons |
+| 8 | — | Labuan Bajo → Yogyakarta |
 
 ---
 
