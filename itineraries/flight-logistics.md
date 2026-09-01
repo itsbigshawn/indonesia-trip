@@ -56,11 +56,11 @@ To keep the itinerary simple, everyone should plan their international arrival a
 
 | Leg | Route | Type | Estimated Price (IDR) | Approx. Price (CAD) |
 |---|---|---|---:|---:|
-| International arrival | Toronto / NYC / Beijing → **DPS** | International | TBD | TBD |
-| Domestic | **DPS → LBJ** | Direct | IDR 1,300,000–1,600,000 | $100–125 CAD |
-| Domestic | **LBJ → YIA** | Via DPS | IDR 2,800,000–3,400,000 | $220–270 CAD |
-| Domestic | **YIA → CGK** | Direct | IDR 800,000–1,500,000 | $63–120 CAD |
-| International departure | **CGK → Toronto / NYC** | International | TBD | TBD |
+| International arrival | Toronto / NYC / Beijing → **Bali (DPS)** | International | TBD | TBD |
+| Domestic | **Bali (DPS) → Labuan Bajo (LBJ)** | Direct | IDR 1,300,000–1,600,000 | $100–125 CAD |
+| Domestic | **Labuan Bajo (LBJ) → Yogyakarta (YIA)** | Via Bali (DPS) | IDR 2,800,000–3,400,000 | $220–270 CAD |
+| Domestic | **Yogyakarta (YIA) → Jakarta (CGK)** | Direct | IDR 800,000–1,500,000 | $63–120 CAD |
+| International departure | **Jakarta (CGK) → Toronto / NYC** | International | TBD | TBD |
 
 ## Planning Notes
 
