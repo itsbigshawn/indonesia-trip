@@ -30,10 +30,11 @@ The Labuan Bajo portion focuses on experiencing Komodo National Park through a s
 **Overnight:** Labuan Bajo
 
 ### Hotel Options
-- Loccal
-- Plataran Komodo Resort & Spa
-- Seaesta Komodo Hotel & Hostel
-- Zasgo Hotel
+- [Loccal](https://loccalcollection.com/)
+- [Seaesta Komodo Hotel & Hostel](https://seaestakomodo.com/rooms/#private-rooms)
+- [Oh!Julia Hotel](https://ohjuliahotels.com/)
+- [Sylvia Resort Komodo](https://sylviaresortkomodo.com-hotel.id/)
+- [Flamingo Avia](https://www.flamingolabuanbajo.com/)
 
 ---
 
@@ -90,13 +91,6 @@ Advertised itinerary includes:
 - 🌅 Optional sunset
 
 **Overnight:** Labuan Bajo
-
-### Hotel Options
-- [Loccal](https://loccalcollection.com/)
-- [Seaesta Komodo Hotel & Hostel](https://seaestakomodo.com/rooms/#private-rooms)
-- [Oh!Julia Hotel](https://ohjuliahotels.com/)
-- [Sylvia Resort Komodo](https://sylviaresortkomodo.com-hotel.id/)
-- [Flamingo Avia](https://www.flamingolabuanbajo.com/)
 
 > Keep the evening easy after two days on the boat. No major activity should be scheduled.
 
