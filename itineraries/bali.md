@@ -32,9 +32,10 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 - 💆 Massage
 
 ### Hotel Options
-- Tandjung Sari Hotel
-- Sudamala Resort
-- Bumas Hotel
+- [Sudamala Resort](https://www.sudamalaresorts.com/resort/sudamala-resort-sanur/)
+- [Prama Sanur Beach](https://pramahotels.com/hotels/rooms/prama-sanur-beach)
+- [Tandjung Sari Hotel](https://www.tandjungsarihotel.com/bungalows)
+- [Peneeda View Beach Hotel](https://peneedaviewhotel.com/)
 
 **Overnight:** Sanur
 
@@ -58,10 +59,10 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 - 🥾 Short caldera walks
 
 ### Hotel Options
-- Lakeview Hotel & Restaurant
-- Desa Oculus
-- Payang Cabin
-- Pondok Devana
+- [Desa Oculus](https://desaoculus.com/stay-at-desa-oculus/)
+- [Payang Cabin](https://www.booking.com/hotel/id/payang-cabin-kintamani.html?ssne=Kintamani&ssne_untouched=Kintamani&highlighted_hotels=14378882&ss=Kintamani&dest_id=-2682745&dest_type=city&hp_avform=1&origin=hp&do_availability_check=1&label=gog235jc-10CAsoaEIWcGF5YW5nLWNhYmluLWtpbnRhbWFuaUgzWANoJ4gBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCvITj1AbAAgHSAiQ5MzM5ODY1Mi1mNGVmLTQwYTItYTUxOS0xOWFlMTdkZDZkMznYAgHgAgE&sid=1b4bdfc9a72c0784b94510326081e497&aid=356980&lang=en-us&sb=1&src_elem=sb&src=hotel&checkin=2026-10-20&checkout=2026-10-21&group_adults=4&no_rooms=2&group_children=0#group_recommendation)
+- [Pondok Devana](https://www.booking.com/hotel/id/pondok-devana-kintamani.html?ssne=Kintamani&ssne_untouched=Kintamani&highlighted_hotels=13122793&ss=Kintamani&dest_id=-2682745&dest_type=city&hp_avform=1&origin=hp&do_availability_check=1&label=gog235jc-10CAsoaEIXcG9uZG9rLWRldmFuYS1raW50YW1hbmlIM1gDaCeIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsCE49QGwAIB0gIkMWI3OGZkNDEtM2Q2ZC00OWFhLTk2MzktMThmYWI0N2ZmMWI12AIB4AIB&sid=1b4bdfc9a72c0784b94510326081e497&aid=356980&lang=en-us&sb=1&src_elem=sb&src=hotel&checkin=2026-10-20&checkout=2026-10-21&group_adults=4&no_rooms=2&group_children=0#group_recommendation)
+- [Lakeview Hotel & Restaurant](https://lakeviewbatur.com/)
 
 **Overnight:** Kintamani
 
@@ -81,12 +82,6 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 - 💦 One waterfall — e.g. Kanto Lampo or Tegenungan
 - 🛕 Goa Gajah *(routing-dependent)*
 
-### Hotel Options
-- ARMA Museum and Resort
-- Jiwa's House
-- Purana Suite
-- The Lokha
-
 **Overnight:** Ubud
 
 ---
@@ -105,6 +100,13 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 - 🛍️ Ubud Market / shopping
 - 🧑‍🎨 Cultural workshop at/through ARMA
 - 🌿 Campuhan Ridge Walk
+
+### Hotel Options
+- [ARMA Museum and Resort](https://www.armabali.com/resorts/arma-resort-family-villa/)
+- [Tegal Sari](https://www.tegalsari-ubud.com/rooms)
+- [Purana Suite](https://puranasuiteubud.com/)
+- [Maya Ubud](https://mayaresorts.com/ubud)
+- [Joglo Organik](https://www.jogloorganik.com/en/)
 
 **Overnight:** Ubud
 

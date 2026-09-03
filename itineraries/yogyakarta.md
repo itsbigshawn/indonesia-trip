@@ -30,6 +30,11 @@ The Yogyakarta portion focuses on Javanese history, iconic temples, local cultur
 
 > Keep this day intentionally light after the Komodo portion and flight.
 
+### Hotel Options
+- [Aveta Hotel](https://www.avetahotelmalioboro.com/)
+- [Jambuluwuk](https://www.jambuluwuk.com/malioboro/)
+- [Hotel Neo](https://www.neohotels.com/en/hotel/view/16/hotel-neo-malioboro---yogyakarta)
+
 ---
 
 ## Day 9 — Borobudur + Prambanan

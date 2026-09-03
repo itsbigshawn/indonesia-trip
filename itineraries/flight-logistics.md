@@ -6,6 +6,10 @@ To keep the itinerary simple, everyone should plan their international arrival a
 
 > **All estimated domestic flight prices below are shown in both Indonesian Rupiah (IDR) and Canadian Dollars (CAD).**
 
+## e-visa
+
+You can either [apply online](https://evisa.imigrasi.go.id/) or apply for it on arrival (e-VOA). Either should work fine, but I heard the queue in Bali airport could be pretty long, so if you want to avoid the line you can apply in advance.
+
 ---
 
 ## International Arrival
@@ -14,6 +18,10 @@ To keep the itinerary simple, everyone should plan their international arrival a
 **I Gusti Ngurah Rai International Airport (DPS)** — Bali / Denpasar
 
 ## Domestic Flights
+
+Sites you can use to book domestic flights:
+- [Traveloka](https://www.traveloka.com/en-en?cur=CAD)
+- [Tiket.com](https://www.tiket.com/en-id)
 
 ### Bali (DPS) → Labuan Bajo (LBJ)
 
