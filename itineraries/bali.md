@@ -2,7 +2,7 @@
 
 ## Bali at a Glance
 
-**3 nights in Bali:** Sanur (1 night) → Ubud (2 nights)
+**3 nights in Bali:** October 25 - 28
 
 | Day | Base | Area | Main Experiences |
 |---|---|---|---|
@@ -17,8 +17,6 @@
 
 **Focus:** Easy arrival & jet lag recovery
 
-With flights from Toronto typically arriving in the afternoon, keep the first day intentionally light.
-
 ### Main activities
 - Check into hotel
 - 🏖️ Sanur Beach
@@ -30,7 +28,7 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 - 🛍️ Sindhu Market
 - 💆 Massage
 
-### Hotel Options
+### Hotel
 - [Prama Sanur Beach](https://pramahotels.com/hotels/rooms/prama-sanur-beach)
 
 **Overnight:** Sanur
@@ -50,7 +48,7 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 - 💦 One waterfall — e.g. Kanto Lampo or Tegenungan
 - 🛕 Goa Gajah *(routing-dependent)*
 
-### Hotel Options
+### Hotel
 - [ARMA Museum and Resort](https://www.armabali.com/resorts/arma-resort-family-villa/)
 
 **Overnight:** Ubud
@@ -76,9 +74,6 @@ With flights from Toronto typically arriving in the afternoon, keep the first da
 
 ---
 
-## Day 4 — Ubud → Yogyakarta
+## Day 4 — Ubud → Jogja
 
-- 🍳 Breakfast
-- Check out
-- Airport transfer
-- ✈️ Fly to Yogyakarta
+- ✈️ 12:05pm flight to Jogja

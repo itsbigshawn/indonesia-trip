@@ -2,9 +2,7 @@
 
 ## Yogyakarta at a Glance
 
-**3 nights in Yogyakarta**
-
-The Yogyakarta portion focuses on Javanese history, iconic temples, local culture, food, and city life.
+**3 nights in Yogyakarta**: October 28 - 31
 
 | Day | Base | Main Experiences |
 |---|---|---|
@@ -15,29 +13,23 @@ The Yogyakarta portion focuses on Javanese history, iconic temples, local cultur
 
 ---
 
-## Day 8 — Labuan Bajo → Yogyakarta
+## Day 4 — Bali → Yogyakarta
 
 **Focus:** Arrival & easy evening
 
-- ✈️ Fly Labuan Bajo → Yogyakarta
+- ✈️ 12:55pm arrival
 - Check into hotel
 - Lunch / rest
 - Explore the city at a relaxed pace
 - 🛍️ Stroll around Malioboro if timing allows
 - 🍜 Local dinner
 
-**Overnight:** Yogyakarta
-
-> Keep this day intentionally light after the Komodo portion and flight.
-
-### Hotel Options
+### Hotel
 - [Aveta Hotel](https://www.avetahotelmalioboro.com/)
-- [Jambuluwuk](https://www.jambuluwuk.com/malioboro/)
-- [Hotel Neo](https://www.neohotels.com/en/hotel/view/16/hotel-neo-malioboro---yogyakarta)
 
 ---
 
-## Day 9 — Borobudur + Prambanan
+## Day 5 — Borobudur + Prambanan
 
 **Focus:** Yogyakarta's iconic temples
 
@@ -59,20 +51,16 @@ The Yogyakarta portion focuses on Javanese history, iconic temples, local cultur
 
 - 🛕 **Prambanan Temple**
 - Explore the temple complex
-- Stay into the late afternoon for the light / sunset if conditions and opening hours allow
+- Stay for evening performance
 
 ### Evening
 
 - Return to Yogyakarta
 - Dinner
 
-**Overnight:** Yogyakarta
-
-> This will be the longest sightseeing day in Jogja, but since it's focused almost entirely on two major temple complexes, it should be manageable.
-
 ---
 
-## Day 10 — Yogyakarta City & Javanese Culture
+## Day 6 — Yogyakarta City & Javanese Culture
 
 **Focus:** Local culture, history & food
 
@@ -89,16 +77,8 @@ The Yogyakarta portion focuses on Javanese history, iconic temples, local cultur
 - ☕ Explore local cafés and neighborhoods
 - More shopping around Malioboro
 
-**Overnight:** Yogyakarta
-
-> This is deliberately a slower day than Day 9.
-
 ---
 
-## Day 11 — Yogyakarta → Jakarta
+## Day 7 — Yogyakarta → Jakarta
 
-- 🍳 Breakfast
-- Check out
-- ✈️ / 🚆 Travel to Jakarta
-- Check into Jakarta accommodation
-- Begin the Jakarta portion
+- ✈️ 1:10pm flight to Jakarta
