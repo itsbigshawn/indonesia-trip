@@ -27,6 +27,9 @@
 ### Hotel
 - [Aveta Hotel](https://www.avetahotelmalioboro.com/)
 
+### Food Options
+- [Warung Klangenan](https://maps.app.goo.gl/9bnCf53s9j1ArGco9) - traditional "angkringan" style where you can grill your own skewers!
+
 ---
 
 ## Day 5 — Borobudur + Prambanan
@@ -76,6 +79,9 @@
 - 💃 Traditional Javanese cultural performance
 - ☕ Explore local cafés and neighborhoods
 - More shopping around Malioboro
+
+### Food Options
+- [Bale Raos](https://maps.app.goo.gl/j4PRBSPJwjxWyQuN8) - classic Javanese cuisines also eaten by the royal Sultan family
 
 ---
 
