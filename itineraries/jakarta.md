@@ -40,6 +40,6 @@
 
 ---
 
-## Day 14 — Jakarta → Departure
+## Day 9 — Jakarta → Departure
 
 **Focus:** Flexible final day. Depends on everyone's flights.

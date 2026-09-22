@@ -6,10 +6,10 @@
 
 | Day | Base | Main Experiences |
 |---|---|---|
-| 8 | Yogyakarta | Arrival + relaxed city evening |
-| 9 | Yogyakarta | 🛕 **Borobudur + Prambanan** |
-| 10 | Yogyakarta | 🏯 Kraton + 💧 Taman Sari + 🛍️ Malioboro + local culture |
-| 11 | — | Yogyakarta → Jakarta |
+| 4 | Yogyakarta | Arrival + relaxed city evening |
+| 5 | Yogyakarta | 🛕 **Borobudur + Prambanan** |
+| 6 | Yogyakarta | 🏯 Kraton + 💧 Taman Sari + 🛍️ Malioboro + local culture |
+| 7 | — | Yogyakarta → Jakarta |
 
 ---
 
