@@ -24,6 +24,9 @@
 - 🛍️ Stroll around Malioboro if timing allows
 - 🍜 Local dinner
 
+### Transport
+Taxi/rideshare/train from airport to hotel
+
 ### Hotel
 - [Aveta Hotel](https://www.avetahotelmalioboro.com/)
 
@@ -61,6 +64,9 @@
 - Return to Yogyakarta
 - Dinner
 
+### Transport
+Private car hire for the day
+
 ---
 
 ## Day 6 — Yogyakarta City & Javanese Culture
@@ -70,15 +76,16 @@
 ### Main activities
 - 🏯 **Kraton / Yogyakarta Palace**
 - 💧 **Taman Sari**
-- 🛍️ **Malioboro**
-- 🍜 Explore Yogyakarta's local food
+- 🪙 **Kotagede** and a silver workshop
 
 ### Optional
 - 🎨 Batik workshop / batik shopping
-- 🪙 **Kotagede** and a silver workshop
 - 💃 Traditional Javanese cultural performance
 - ☕ Explore local cafés and neighborhoods
 - More shopping around Malioboro
+
+### Transport
+Walk or Gojek/Grab to get around
 
 ### Food Options
 - [Bale Raos](https://maps.app.goo.gl/j4PRBSPJwjxWyQuN8) - classic Javanese cuisines also eaten by the royal Sultan family
@@ -87,4 +94,4 @@
 
 ## Day 7 — Yogyakarta → Jakarta
 
-- ✈️ 1:10pm flight to Jakarta
+- ✈️ 1:10pm flight to Jakarta (QG 773)

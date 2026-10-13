@@ -41,9 +41,9 @@
 
 ### Food Options
 - [ASA Menteng](https://maps.app.goo.gl/KVppnvdS6ZxuD7QL8) - Indonesian breakfast
+- [Uma Oma Heritage](https://umaoma.com/uma-oma-heritage/) - Indonesian brunch
 - [Mack's Creamery](https://maps.app.goo.gl/EWmpwuZtGvP2PFkx7) - ice cream!
 - [Little Salt Bread](https://maps.app.goo.gl/hLrbko4dZ9ppCt8t5)
-- [Pidari Lounge](https://plataran.com/event/pidari-lounge/) - upscale Indonesian food
 
 ---
 

@@ -28,6 +28,9 @@
 - 🛍️ Sindhu Market
 - 💆 Massage
 
+### Transport
+Taxi or rideshare from airport to hotel
+
 ### Hotel
 - [Prama Sanur Beach](https://pramahotels.com/hotels/rooms/prama-sanur-beach)
 
@@ -52,6 +55,9 @@
 ### Optional
 - 💦 One waterfall — e.g. Kanto Lampo or Tegenungan
 - 🛕 Goa Gajah *(routing-dependent)*
+
+### Transport
+Private car hire for the day. Getting from Sanur to Ubud takes around 1.5-2hrs.
 
 ### Hotel
 - [ARMA Museum and Resort](https://www.armabali.com/resorts/arma-resort-family-villa/)
@@ -81,10 +87,13 @@
 - 🧑‍🎨 Cultural workshop at/through ARMA
 - 🌿 Campuhan Ridge Walk
 
+### Transport
+Since we're gonna be mostly around downtown Ubud, we can walk or Gojek/Grab to get around.
+
 **Overnight:** Ubud
 
 ---
 
 ## Day 4 — Ubud → Jogja
 
-- ✈️ 12:05pm flight to Jogja
+- ✈️ 12:05pm flight to Jogja (GA 253)
