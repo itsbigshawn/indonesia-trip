@@ -6,6 +6,8 @@ Yes! It should be very easy to apply via this official website: https://evisa.im
 
 I'm not gonna sugarcoat it, it's gonna be hot _and_ humid most of the time. Make sure to bring lots of sunscreen and pack a good hat. If you have a fan, it'll be handy to bring it too.
 
+Due to the ongoing forest fires, the air quality in Jakarta is slightly impacted as well. I'd recommend bringing some masks to wear when we're outside.
+
 Rainy season hasn't quite started yet, though when it rains, it usually pours. I'd pack either a small umbrella or a rain jacket just in case.
 
 ### What should I wear?
@@ -13,6 +15,21 @@ Rainy season hasn't quite started yet, though when it rains, it usually pours. I
 What's considered acceptable will vary from region to region. Bali is predominantly Hindu and very tourist-heavy, so you can pretty much wear whatever you want. The only exception is when we're entering temples. For this, you'd be required to cover your shoulders and knees, though in most temples they'd lend you a "sarong", which is a long piece of fabric you can wear to cover your legs, so wearing it over shorts is fine too. In other cities like Jogjakarta and Jakarta, people tend to dress more conservatively so I'd avoid wearing anything too revealing.
 
 And because the weather is mostly hot and humid, wearing linen-based stuff or flowy clothing in general would help a lot!
+
+### What else do I need to pack?
+
+Here's the minimum packing list:
+
+- Swimsuits
+- Sunscreen
+- Hat
+- Fan
+- Small umbrella/rain jacket
+- Universal power adapter. We use [type C and F outlets](https://wise.com/gb/plug-types/jakarta).
+- Disposable masks (air quality in Jakarta is pretty bad due to the ongoing forest fires)
+- Ear plugs if you're a light sleeper (you'll hear the adzan for the early morning prayer around 5am)
+- Insect repellent (we have _a lot_ of mosquitoes)
+- Any meds you need
 
 ### How do I pay for stuff?
 
@@ -26,12 +43,11 @@ Sometimes we also tip drivers and hotel porters, but again, not mandatory.
 
 ### How do we get around?
 
-I'd recommend downloading the Gojek and Grab apps. These are our local ubers and we'll be relying on them a lot! You should be able to use your credit cards as payment methods.
+I'd recommend downloading Gojek/Grab and MyBlueBird. These are our local ubers/taxis and we'll be relying on them a lot! You should be able to use your credit cards as payment methods.
 
-### Anything else that I need to know/pack?
+### Is Indonesian food spicy?
 
-- Indonesia is a tropical country, so bring some insect repellant since mosquitoes are very common!
-- If you're a light sleeper, I'd recommend bringing some earplugs. In Jogja and Jakarta, you'll hear the adzan 5 times a day from the mosques, and the earliest prayer call might wake you up at 5am.
+Generally yes, although a lot of things are also not spicy by default, but are meant to be eaten with sambal on the side. The general rule is: if an Indonesian tells you it's not spicy, do _not_ believe them, but if they say it is spicy, do believe them.
 
 ### What are some common Indonesian words/phrases I should know?
 - _Selamat pagi_ = Good morning
