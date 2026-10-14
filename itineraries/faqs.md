@@ -25,6 +25,7 @@ Here's the minimum packing list:
 - Hat
 - Fan
 - Small umbrella/rain jacket
+- Water bottle
 - Universal power adapter. We use [type C and F outlets](https://wise.com/gb/plug-types/jakarta).
 - Disposable masks (air quality in Jakarta is pretty bad due to the ongoing forest fires)
 - Ear plugs if you're a light sleeper (you'll hear the adzan for the early morning prayer around 5am)
@@ -49,6 +50,10 @@ I'd recommend downloading Gojek/Grab and MyBlueBird. These are our local ubers/t
 
 Generally yes, although a lot of things are also not spicy by default, but are meant to be eaten with sambal on the side. The general rule is: if an Indonesian tells you it's not spicy, do _not_ believe them, but if they say it is spicy, do believe them.
 
+### Is tap water safe to drink?
+
+Absolutely not lol. Stick to bottled water and water dispensers.
+
 ### What are some common Indonesian words/phrases I should know?
 - _Selamat pagi_ = Good morning
 - _Selamat siang_ = Good afternoon
@@ -59,3 +64,10 @@ Generally yes, although a lot of things are also not spicy by default, but are m
 - _Satu, dua, tiga_ = One, two, three
 - _Nama saya <insert name here>_ = My name is ...
 - _Kami dari Kanada_ = We're from Canada
+
+We also use honorifics when we talk to people we don't know well
+- _Kak_ = Gender-neutral term for a young person who's around your age
+- _Mbak_ = The equivalent of Ms or Miss, used mostly for young women
+- _Mas_ = The equivalent of Mr or Sir, used mostly for young men
+- _Ibu_ = Direct translation is "Mother", but usually used to addressed older women (think your mom and grandma's age)
+- _Bapak_ or just _Pak_ = Used to addressed older men (like your dad and grandpa's age)
